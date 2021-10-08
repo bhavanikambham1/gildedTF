@@ -1,9 +1,9 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>testNG</groupId>
-  <artifactId>seleniumtest</artifactId>
+  <artifactId>gildedTF</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <name>seleniumtest</name>
+  <name>gildedTF</name>
   <description>Selenium test using Maven and testNG</description>
 
  <!-- Add Following Lines in Your POM File -->
@@ -41,7 +41,7 @@
     <version>2.18.1</version>
     <configuration>
      <suiteXmlFiles>
-      <suiteXmlFile>seleniumtest.xml</suiteXmlFile>
+      <suiteXmlFile>gildedTF.xml</suiteXmlFile>
      </suiteXmlFiles>
     </configuration>
    </plugin>

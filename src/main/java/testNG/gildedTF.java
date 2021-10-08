@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 import org.testng.Assert;
 import org.testng.annotations.AfterMethod;
  
-public class seleniumtest {
+public class gildedTF {
   	
   	WebDriver driver;
   	

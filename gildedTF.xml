@@ -2,7 +2,7 @@
 <suite parallel="false" name="Suite">
   <test name="Test">
     <classes>
-      <class name="testNG.seleniumtest"/>
+      <class name="testNG.gildedTF"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
